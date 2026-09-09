@@ -1,0 +1,6 @@
+(
+echo pandas
+echo numpy
+echo scikit-learn
+echo matplotlib
+) > requirements.txt
